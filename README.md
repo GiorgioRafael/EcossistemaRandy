@@ -1,4 +1,4 @@
-# ProjetoFlorestaAtualiado
+# ProjetoFlorestaAtualizado
 Projeto POO Ciencias da Computação
 Giorgio Rafael Ataide Guimarães
 01620989
